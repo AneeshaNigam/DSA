@@ -1,0 +1,12 @@
+In this question we have to find the next permutation that's ordered lexiographically
+i.e. 123 132 213 231 312 321 the no.s together are in incrementing order
+
+so, for 1243 we would have to find the pivot index that is from where onwards the changes need to be done
+
+in order to find the pivot index we would first find out which left element is lesser than it's right element
+
+after finding the index we would reverse the rest of the array afterwards the pivot index
+
+and then swap the pivot index element and it's succeding element
+
+then we will end up having the next permutation of the given no.
