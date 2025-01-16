@@ -1,0 +1,5 @@
+14_01_2025
+Given an array of size n find a result array denoting the sum of absolute difference between the current element and every other element
+leetcode- twosum
+leetcode- palindrome
+
